@@ -1,7 +1,0 @@
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\bin\Release\app.config
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\bin\Release\SandBox.Db.dll.config
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\bin\Release\SandBox.Db.dll
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\bin\Release\SandBox.Db.pdb
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\obj\Release\ResolveAssemblyReference.cache
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\obj\Release\SandBox.Db.dll
-C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Db\obj\Release\SandBox.Db.pdb

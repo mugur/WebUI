@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<items>
-  <item Text="Информация" NavigateUrl="Information.aspx" />
-  <item Text="Настройки" NavigateUrl="Settings.aspx" />
-  <item Text="Разработка" NavigateUrl="Dbg.aspx" />
-</items>
