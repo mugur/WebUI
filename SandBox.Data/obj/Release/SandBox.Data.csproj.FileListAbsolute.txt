@@ -1,0 +1,5 @@
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\bin\Release\SandBox.Data.dll
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\bin\Release\SandBox.Data.pdb
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Release\SandBox.Data.dll
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Release\SandBox.Data.pdb

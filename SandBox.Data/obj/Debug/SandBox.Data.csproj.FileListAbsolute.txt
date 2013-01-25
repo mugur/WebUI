@@ -1,0 +1,40 @@
+c:\documents and settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBoxData\bin\Debug\SandBox.Data.dll
+c:\documents and settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBoxData\bin\Debug\SandBox.Data.pdb
+c:\documents and settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBoxData\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBoxData\obj\Debug\SandBox.Data.dll
+c:\documents and settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBoxData\obj\Debug\SandBox.Data.pdb
+C:\Documents and Settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Documents and Settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Documents and Settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Documents and Settings\andnov\мои документы\visual studio 2010\Projects\sandBoxTest\SandBox.Data\obj\Debug\SandBox.Data.pdb
+C:\Documents and Settings\andnov\Мои документы\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Documents and Settings\andnov\Мои документы\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Documents and Settings\andnov\Мои документы\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\andnov\Мои документы\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Documents and Settings\andnov\Мои документы\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Debug\SandBox.Data.pdb
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Users\dru\Documents\Visual Studio 2010\Projects\sandBoxDE\SandBox.Data\obj\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\ке\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\ке\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\ке\WebUi\src\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Панда\Desktop\Александр\ке\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\ке\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\Новейший\WebUi\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\Новейший\WebUi\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\Новейший\WebUi\WebUi\src\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Панда\Desktop\Александр\Новейший\WebUi\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\Новейший\WebUi\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\Новейший - копия\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\Новейший - копия\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\Новейший - копия\WebUi\src\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Панда\Desktop\Александр\Новейший - копия\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\Новейший - копия\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\16.01.13\Новейший - копия\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\16.01.13\Новейший - копия\WebUi\src\SandBox.Data\bin\Debug\SandBox.Data.pdb
+C:\Users\Панда\Desktop\Александр\16.01.13\Новейший - копия\WebUi\src\SandBox.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Панда\Desktop\Александр\16.01.13\Новейший - копия\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.dll
+C:\Users\Панда\Desktop\Александр\16.01.13\Новейший - копия\WebUi\src\SandBox.Data\obj\Debug\SandBox.Data.pdb
